@@ -41,7 +41,7 @@ display: block;
 text-align: center;
 }
 .nav-bar a:hover{
-  background-color: rgba(0, 0, 0, 0.391);
+  background-color: rgb(0, 0, 0, 0.391);
 }
 
 .nav-bar li{
